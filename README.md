@@ -6,7 +6,7 @@ This project demonstrates a cross-process communication system. It uses **C++ (O
 To download this project to your computer, use the following commands in your terminal:
 
 ```bash
-git clone [https://github.com/LearnerMahi/YOLO_SharedMemory](https://github.com/LearnerMahi/YOLO_SharedMemory)
+git clone [https://github.com/ahnafraismahi/YOLO_SharedMemory](https://github.com/ahnafraismahi/YOLO_SharedMemory)
 cd YOLO_SharedMemory
 🛠 Project Components
 
